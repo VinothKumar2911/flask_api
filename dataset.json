@@ -1,0 +1,502 @@
+[
+  {
+    "actual_price": "58000.00",
+    "competitor_price": "55000.00",
+    "efficient_price": null,
+    "productid": 101,
+    "productname": "Laptop",
+    "seasonal_factor": 1,
+    "stock_level": 20,
+    "time_of_day": 9
+  },
+  {
+    "actual_price": "27000.00",
+    "competitor_price": "25000.00",
+    "efficient_price": null,
+    "productid": 102,
+    "productname": "Smartphone",
+    "seasonal_factor": 0,
+    "stock_level": 50,
+    "time_of_day": 14
+  },
+  {
+    "actual_price": "20000.00",
+    "competitor_price": "18000.00",
+    "efficient_price": null,
+    "productid": 103,
+    "productname": "Tablet",
+    "seasonal_factor": 1,
+    "stock_level": 30,
+    "time_of_day": 20
+  },
+  {
+    "actual_price": "13000.00",
+    "competitor_price": "12000.00",
+    "efficient_price": null,
+    "productid": 104,
+    "productname": "Smartwatch",
+    "seasonal_factor": 0,
+    "stock_level": 25,
+    "time_of_day": 10
+  },
+  {
+    "actual_price": "4000.00",
+    "competitor_price": "3500.00",
+    "efficient_price": null,
+    "productid": 105,
+    "productname": "Headphones",
+    "seasonal_factor": 1,
+    "stock_level": 80,
+    "time_of_day": 17
+  },
+  {
+    "actual_price": "3000.00",
+    "competitor_price": "2500.00",
+    "efficient_price": null,
+    "productid": 106,
+    "productname": "Keyboard",
+    "seasonal_factor": 0,
+    "stock_level": 100,
+    "time_of_day": 11
+  },
+  {
+    "actual_price": "1800.00",
+    "competitor_price": "1500.00",
+    "efficient_price": null,
+    "productid": 107,
+    "productname": "Mouse",
+    "seasonal_factor": 1,
+    "stock_level": 150,
+    "time_of_day": 22
+  },
+  {
+    "actual_price": "15000.00",
+    "competitor_price": "14000.00",
+    "efficient_price": null,
+    "productid": 108,
+    "productname": "Monitor",
+    "seasonal_factor": 0,
+    "stock_level": 15,
+    "time_of_day": 19
+  },
+  {
+    "actual_price": "45000.00",
+    "competitor_price": "40000.00",
+    "efficient_price": null,
+    "productid": 109,
+    "productname": "Gaming Console",
+    "seasonal_factor": 1,
+    "stock_level": 10,
+    "time_of_day": 8
+  },
+  {
+    "actual_price": "5500.00",
+    "competitor_price": "5000.00",
+    "efficient_price": null,
+    "productid": 110,
+    "productname": "Router",
+    "seasonal_factor": 0,
+    "stock_level": 40,
+    "time_of_day": 13
+  },
+  {
+    "actual_price": "1800.00",
+    "competitor_price": "1500.00",
+    "efficient_price": null,
+    "productid": 111,
+    "productname": "Power Bank",
+    "seasonal_factor": 1,
+    "stock_level": 120,
+    "time_of_day": 16
+  },
+  {
+    "actual_price": "8500.00",
+    "competitor_price": "8000.00",
+    "efficient_price": null,
+    "productid": 112,
+    "productname": "Printer",
+    "seasonal_factor": 0,
+    "stock_level": 30,
+    "time_of_day": 21
+  },
+  {
+    "actual_price": "6500.00",
+    "competitor_price": "6000.00",
+    "efficient_price": null,
+    "productid": 113,
+    "productname": "Scanner",
+    "seasonal_factor": 1,
+    "stock_level": 18,
+    "time_of_day": 7
+  },
+  {
+    "actual_price": "2300.00",
+    "competitor_price": "2000.00",
+    "efficient_price": null,
+    "productid": 114,
+    "productname": "Webcam",
+    "seasonal_factor": 0,
+    "stock_level": 90,
+    "time_of_day": 23
+  },
+  {
+    "actual_price": "4000.00",
+    "competitor_price": "3500.00",
+    "efficient_price": null,
+    "productid": 115,
+    "productname": "Microphone",
+    "seasonal_factor": 1,
+    "stock_level": 50,
+    "time_of_day": 18
+  },
+  {
+    "actual_price": "5000.00",
+    "competitor_price": "4500.00",
+    "efficient_price": null,
+    "productid": 116,
+    "productname": "External HDD",
+    "seasonal_factor": 0,
+    "stock_level": 35,
+    "time_of_day": 20
+  },
+  {
+    "actual_price": "9000.00",
+    "competitor_price": "8500.00",
+    "efficient_price": null,
+    "productid": 117,
+    "productname": "SSD Drive",
+    "seasonal_factor": 1,
+    "stock_level": 25,
+    "time_of_day": 11
+  },
+  {
+    "actual_price": "1000.00",
+    "competitor_price": "800.00",
+    "efficient_price": null,
+    "productid": 118,
+    "productname": "USB Drive",
+    "seasonal_factor": 0,
+    "stock_level": 200,
+    "time_of_day": 10
+  },
+  {
+    "actual_price": "65000.00",
+    "competitor_price": "60000.00",
+    "efficient_price": null,
+    "productid": 119,
+    "productname": "Graphics Card",
+    "seasonal_factor": 1,
+    "stock_level": 5,
+    "time_of_day": 15
+  },
+  {
+    "actual_price": "16000.00",
+    "competitor_price": "15000.00",
+    "efficient_price": null,
+    "productid": 120,
+    "productname": "Motherboard",
+    "seasonal_factor": 0,
+    "stock_level": 10,
+    "time_of_day": 9
+  },
+  {
+    "actual_price": "28000.00",
+    "competitor_price": "25000.00",
+    "efficient_price": null,
+    "productid": 121,
+    "productname": "Processor",
+    "seasonal_factor": 1,
+    "stock_level": 12,
+    "time_of_day": 12
+  },
+  {
+    "actual_price": "7500.00",
+    "competitor_price": "7000.00",
+    "efficient_price": null,
+    "productid": 122,
+    "productname": "RAM (16GB)",
+    "seasonal_factor": 0,
+    "stock_level": 40,
+    "time_of_day": 22
+  },
+  {
+    "actual_price": "2000.00",
+    "competitor_price": "1500.00",
+    "efficient_price": null,
+    "productid": 123,
+    "productname": "Cooling Pad",
+    "seasonal_factor": 1,
+    "stock_level": 60,
+    "time_of_day": 18
+  },
+  {
+    "actual_price": "50000.00",
+    "competitor_price": "45000.00",
+    "efficient_price": null,
+    "productid": 124,
+    "productname": "VR Headset",
+    "seasonal_factor": 0,
+    "stock_level": 8,
+    "time_of_day": 20
+  },
+  {
+    "actual_price": "60000.00",
+    "competitor_price": "55000.00",
+    "efficient_price": null,
+    "productid": 125,
+    "productname": "Projector",
+    "seasonal_factor": 1,
+    "stock_level": 7,
+    "time_of_day": 19
+  },
+  {
+    "actual_price": "20000.00",
+    "competitor_price": "18000.00",
+    "efficient_price": null,
+    "productid": 126,
+    "productname": "Soundbar",
+    "seasonal_factor": 0,
+    "stock_level": 20,
+    "time_of_day": 14
+  },
+  {
+    "actual_price": "13000.00",
+    "competitor_price": "12000.00",
+    "efficient_price": null,
+    "productid": 127,
+    "productname": "Action Camera",
+    "seasonal_factor": 1,
+    "stock_level": 30,
+    "time_of_day": 16
+  },
+  {
+    "actual_price": "4500.00",
+    "competitor_price": "4000.00",
+    "efficient_price": null,
+    "productid": 128,
+    "productname": "Fitness Tracker",
+    "seasonal_factor": 0,
+    "stock_level": 70,
+    "time_of_day": 9
+  },
+  {
+    "actual_price": "1500.00",
+    "competitor_price": "1200.00",
+    "efficient_price": null,
+    "productid": 129,
+    "productname": "Smart Bulb",
+    "seasonal_factor": 1,
+    "stock_level": 100,
+    "time_of_day": 22
+  },
+  {
+    "actual_price": "2500.00",
+    "competitor_price": "2000.00",
+    "efficient_price": null,
+    "productid": 130,
+    "productname": "Power Strip",
+    "seasonal_factor": 0,
+    "stock_level": 80,
+    "time_of_day": 11
+  },
+  {
+    "actual_price": "50000.00",
+    "competitor_price": "45000.00",
+    "efficient_price": null,
+    "productid": 131,
+    "productname": "Drone",
+    "seasonal_factor": 1,
+    "stock_level": 10,
+    "time_of_day": 13
+  },
+  {
+    "actual_price": "40000.00",
+    "competitor_price": "35000.00",
+    "efficient_price": null,
+    "productid": 132,
+    "productname": "Camera Lens",
+    "seasonal_factor": 0,
+    "stock_level": 5,
+    "time_of_day": 10
+  },
+  {
+    "actual_price": "15000.00",
+    "competitor_price": "12000.00",
+    "efficient_price": null,
+    "productid": 133,
+    "productname": "E-Reader",
+    "seasonal_factor": 1,
+    "stock_level": 25,
+    "time_of_day": 17
+  },
+  {
+    "actual_price": "3500.00",
+    "competitor_price": "3000.00",
+    "efficient_price": null,
+    "productid": 134,
+    "productname": "Electric Kettle",
+    "seasonal_factor": 0,
+    "stock_level": 90,
+    "time_of_day": 21
+  },
+  {
+    "actual_price": "30000.00",
+    "competitor_price": "25000.00",
+    "efficient_price": null,
+    "productid": 135,
+    "productname": "Air Purifier",
+    "seasonal_factor": 1,
+    "stock_level": 15,
+    "time_of_day": 16
+  },
+  {
+    "actual_price": "15000.00",
+    "competitor_price": "12000.00",
+    "efficient_price": null,
+    "productid": 136,
+    "productname": "Smart Lock",
+    "seasonal_factor": 0,
+    "stock_level": 20,
+    "time_of_day": 8
+  },
+  {
+    "actual_price": "5500.00",
+    "competitor_price": "5000.00",
+    "efficient_price": null,
+    "productid": 137,
+    "productname": "WiFi Extender",
+    "seasonal_factor": 1,
+    "stock_level": 50,
+    "time_of_day": 22
+  },
+  {
+    "actual_price": "4500.00",
+    "competitor_price": "4000.00",
+    "efficient_price": null,
+    "productid": 138,
+    "productname": "Portable Speaker",
+    "seasonal_factor": 0,
+    "stock_level": 60,
+    "time_of_day": 9
+  },
+  {
+    "actual_price": "25000.00",
+    "competitor_price": "20000.00",
+    "efficient_price": null,
+    "productid": 139,
+    "productname": "Gaming Chair",
+    "seasonal_factor": 1,
+    "stock_level": 5,
+    "time_of_day": 14
+  },
+  {
+    "actual_price": "90000.00",
+    "competitor_price": "85000.00",
+    "efficient_price": null,
+    "productid": 140,
+    "productname": "Electric Scooter",
+    "seasonal_factor": 0,
+    "stock_level": 8,
+    "time_of_day": 12
+  },
+  {
+    "actual_price": "2500.00",
+    "competitor_price": "2000.00",
+    "efficient_price": null,
+    "productid": 141,
+    "productname": "Digital Clock",
+    "seasonal_factor": 1,
+    "stock_level": 80,
+    "time_of_day": 13
+  },
+  {
+    "actual_price": "2000.00",
+    "competitor_price": "1500.00",
+    "efficient_price": null,
+    "productid": 142,
+    "productname": "Laptop Stand",
+    "seasonal_factor": 0,
+    "stock_level": 100,
+    "time_of_day": 11
+  },
+  {
+    "actual_price": "1500.00",
+    "competitor_price": "1200.00",
+    "efficient_price": null,
+    "productid": 143,
+    "productname": "Desk Organizer",
+    "seasonal_factor": 1,
+    "stock_level": 150,
+    "time_of_day": 10
+  },
+  {
+    "actual_price": "8500.00",
+    "competitor_price": "8000.00",
+    "efficient_price": null,
+    "productid": 144,
+    "productname": "Gaming Keyboard",
+    "seasonal_factor": 0,
+    "stock_level": 20,
+    "time_of_day": 17
+  },
+  {
+    "actual_price": "11000.00",
+    "competitor_price": "10000.00",
+    "efficient_price": null,
+    "productid": 145,
+    "productname": "Mechanical Keyboard",
+    "seasonal_factor": 1,
+    "stock_level": 15,
+    "time_of_day": 19
+  },
+  {
+    "actual_price": "2500.00",
+    "competitor_price": "2000.00",
+    "efficient_price": null,
+    "productid": 146,
+    "productname": "Smart Plug",
+    "seasonal_factor": 0,
+    "stock_level": 90,
+    "time_of_day": 20
+  },
+  {
+    "actual_price": "4000.00",
+    "competitor_price": "3500.00",
+    "efficient_price": null,
+    "productid": 147,
+    "productname": "Wireless Charger",
+    "seasonal_factor": 1,
+    "stock_level": 50,
+    "time_of_day": 21
+  },
+  {
+    "actual_price": "60000.00",
+    "competitor_price": "55000.00",
+    "efficient_price": null,
+    "productid": 148,
+    "productname": "Smart TV",
+    "seasonal_factor": 0,
+    "stock_level": 10,
+    "time_of_day": 16
+  },
+  {
+    "actual_price": "3500.00",
+    "competitor_price": "3000.00",
+    "efficient_price": null,
+    "productid": 149,
+    "productname": "Bluetooth Earbuds",
+    "seasonal_factor": 1,
+    "stock_level": 70,
+    "time_of_day": 8
+  },
+  {
+    "actual_price": "80000.00",
+    "competitor_price": "75000.00",
+    "efficient_price": null,
+    "productid": 150,
+    "productname": "Home Theater",
+    "seasonal_factor": 0,
+    "stock_level": 5,
+    "time_of_day": 15
+  }
+]
